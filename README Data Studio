@@ -1,0 +1,17 @@
+# Dashboard E-commerce — Looker Studio
+
+Modelo de apresentação de performance de e-commerce, com filtro de período dinâmico.
+
+## KPIs principais
+- Faturamento: R$ 5,87 mi
+- Pedidos: 34,5 mil
+- Ticket Médio: R$ 170,01
+
+## Visualizações
+- Faturamento ao longo do tempo (série histórica)
+- Métodos de pagamento (donut)
+- Categoria de produto (treemap) — Eletrônicos: 56,59%
+- Média de desconto (gauge): 4,9%
+- Faixa etária de clientes (barras horizontais)
+
+**Ferramenta:** Google Looker Studio
