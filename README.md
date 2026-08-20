@@ -6,9 +6,9 @@ Portfólio de dashboards e apresentações de dados, demonstrando aplicação pr
 
 | Pasta | Ferramenta | Tema |
 |---|---|---|
-| [`looker-studio-ecommerce`](./looker-studio-ecommerce) | Google Looker Studio | Performance de E-commerce (faturamento, pedidos, ticket médio) |
-| [`excel-manutencao-industrial`](./excel-manutencao-industrial) | Excel (Tabela Dinâmica + VBA) | Gestão de Ordens de Serviço de Manutenção Industrial |
-| [`power-bi-marca-overview`](./power-bi-marca-overview) | Power BI | Monitoramento de Reputação de Marca / Clipping de Mídia |
+| [`Data Studio`](https://github.com/NPaccelly/Dash-n-Tell-Dashboards/tree/easy-mode/Data%20Studio) | Google Looker Studio | Performance de E-commerce (faturamento, pedidos, ticket médio) |
+| [`Excel`](https://github.com/NPaccelly/Dash-n-Tell-Dashboards/tree/easy-mode/Excel) | Excel (Tabela Dinâmica + VBA) | Gestão de Ordens de Serviço de Manutenção Industrial |
+| [`Power BI`](https://github.com/NPaccelly/Dash-n-Tell-Dashboards/tree/easy-mode/Power%20BI) | Power BI | Monitoramento de Reputação de Marca / Clipping de Mídia |
 
 ## 🎯 Sobre este portfólio
 
@@ -19,4 +19,4 @@ Cada pasta contém um modelo de dashboard construído do zero, com KPIs, visuali
 Power BI · Excel Avançado/VBA · Google Looker Studio · Power Query · DAX
 
 ---
-**Autora:** Nathália Paccelly Pedro (NPaccelly)
+**Autora:** Nathália Paccelly (NPaccelly)
