@@ -1,0 +1,20 @@
+# Marca — Overview — Power BI
+
+Dashboard de monitoramento de reputação de marca e cobertura de mídia (clipping/social listening).
+
+## KPIs principais
+- Total de Matérias: 6 mil
+- Matérias em veículos impressos: 227
+- Público Alcançado: 2 bi
+- Valoração: R$ 196,89 mi
+- Matérias Positivas: 4 mil
+
+## Visualizações
+- Avaliação (positivo/neutro/negativo) — donut
+- Padrão de mídia (online, impresso, eletrônica)
+- Centimetragem por veículo (jornal/revista)
+- Matérias por região (barras)
+- Matérias por mês (linha, sazonalidade)
+- Assuntos por área (funil: Financeiro, RH, Operações, Marketing, Comercial, Responsabilidade, Corporativo)
+
+**Ferramenta:** Power BI Desktop
