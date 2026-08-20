@@ -1,0 +1,19 @@
+# Dashboard de Manutenção Industrial — Excel
+
+Painel de acompanhamento de ordens de serviço (O.S.) de manutenção industrial, com tabela dinâmica e segmentação por mês.
+
+## KPIs principais
+- Total de O.S.: 1.000
+- O.S. concluídas: 737 (73,70%)
+- Backlog total: 12.310
+- Custo total: R$ 49.366.290,00
+- Custo médio por O.S.: R$ 49.366,29
+
+## Visualizações
+- Total de O.S. concluídas por mês (linha)
+- Custo total por categoria x causa (combinado barra/linha)
+- Top 5 ativos por custo (R$)
+- Custo por fabricante (barras)
+- Tipo de O.S. (donut): Corretiva, Preventiva, Preditiva, Inspeção, Melhoria, Lubrificação
+
+**Ferramentas:** Excel (Tabela Dinâmica + Dashboard), VBA/formatação condicional
