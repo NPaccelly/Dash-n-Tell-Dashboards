@@ -19,4 +19,9 @@ Cada pasta contém um modelo de dashboard construído do zero, com KPIs, visuali
 Power BI · Excel Avançado/VBA · Google Looker Studio · Power Query · DAX
 
 ---
-**Autora:** Nathália Paccelly (NPaccelly)
+## Autora
+
+**Nathália Paccelly** — Especialista Sênior em Inteligência de Mercado, BI
+& Comunicação Estratégica
+[LinkedIn](https://linkedin.com/in/nathaliapaccelly) ·
+[Portfólio](https://github.com/NPaccelly)
